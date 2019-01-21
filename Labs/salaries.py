@@ -45,6 +45,3 @@ if __name__ == "__main__":
 
 	sns_plot2.savefig("histogram.png",bbox_inches='tight')
 	sns_plot2.savefig("histogram.pdf",bbox_inches='tight')
-
-
-	
